@@ -13,3 +13,8 @@ M5 Stick Plus: https://www.digikey.com/en/product-highlight/m/m5stack/m5stickc-p
 Arduino:   Platform used for M5 Stick <br> 
 
 MAX MSP: Used to generate the real time data 
+
+# This Repo 
+
+1. M5Stick.ino: this is the Arduino code. There has been no magnometer soldered onto this device (you should add the magnometer to help transform into quarternians). 
+2. max/express.maxpro - the Max MSP project. This project hosts the node server that this project runs on 
