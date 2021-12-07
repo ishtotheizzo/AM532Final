@@ -30,7 +30,7 @@ WiFiClient client;
 
 const char* ssid = "wifi";  
 const char* pass= "ThisIsASecurePasswordDjes?"; 
-String ip = "192.168.113.208";
+String ip = "000.000.000.000";
 
 // get gyro data 
 float gyroX, gyroY, gyroZ;
