@@ -10,5 +10,6 @@ M5 Stick Plus: https://www.digikey.com/en/product-highlight/m/m5stack/m5stickc-p
 
 ## Software 
 
-Arduino:   Platform used for M5 Stick 
+Arduino:   Platform used for M5 Stick <br> 
+
 MAX MSP: Used to generate the real time data 
